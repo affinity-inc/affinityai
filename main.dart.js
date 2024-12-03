@@ -84906,8 +84906,8 @@ return}s.e.hD()
 s.a.ve(0,s.d)},
 $S:0}
 A.aef.prototype={
-To(a){var s,r,q=A.bR("\\s+",!0,!1),p=A.ea(a.toLowerCase(),q,""),o=["sejal","choudh","choudhary","ejal","jal","sej","houdh"]
-for(s=0;s<7;++s){r=o[s]
+To(a){var s,r,q=A.bR("\\s+",!0,!1),p=A.ea(a.toLowerCase(),q,""),o=["sejal","ejal","jal","sej"]
+for(s=0;s<4;++s){r=o[s]
 if(A.ax7(p,r,0))return!0}return!1},
 ao0(a,b){var s,r,q
 if(a.length!==0){s=a.split(" ")
